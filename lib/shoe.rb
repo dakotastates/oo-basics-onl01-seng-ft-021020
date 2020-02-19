@@ -6,7 +6,7 @@ class Shoe
   def color
     @color
   end
-  def 
+  
   
 
 end
