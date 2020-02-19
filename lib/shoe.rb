@@ -8,8 +8,7 @@ class Shoe
     @shoe_condition = shoe_condition
     if @shoe_condition == "new"
       puts "Your shoe is as good as new!"
-    else
-      puts ""
+
     end
   end
   
